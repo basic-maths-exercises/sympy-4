@@ -5,7 +5,7 @@ As a final point, we can also use Python to compute definite integrals.  The cod
 __To pass the exercise modify the code in `main.py` to set the variables `integral1` and `integral2` as follows__:
 
 1. `integral1` should be set equal to ![](https://render.githubusercontent.com/render/math?math=\int_{-1}^1x^3%2Bx^2\textrm{d}x)
-2. `integral2` should be set equal to ![](https://render.githubusercontent.com/render/math?math=\int_{-\pi}^\pi \sin(x)%2B\cos(x)\textrm{d}x)
+2. `integral2` should be set equal to ![](https://render.githubusercontent.com/render/math?math=\int_{-\pi}^\pi\sin(x)%2B\cos(x)\textrm{d}x)
 
 You should obviously use sympy to determine the values of these integrals
 
